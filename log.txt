@@ -1,0 +1,7 @@
+2025-10-21 09:14:22 INFO User 'admin' logged in from 192.168.0.10
+2025-10-21 09:15:01 ERROR Failed login attempt for user 'root' from 185.33.45.22
+2025-10-21 09:15:10 ERROR Failed login attempt for user 'root' from 185.33.45.22
+2025-10-21 09:16:02 INFO User 'guest' logged in from 10.0.0.5
+2025-10-21 09:18:44 ERROR Failed login attempt for user 'root' from 185.33.45.22
+2025-10-21 09:19:11 WARNING Port scan detected from 203.0.113.50
+2025-10-21 09:22:30 INFO User 'admin' logged out
