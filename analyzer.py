@@ -1,4 +1,5 @@
 import re
+import sys
 from collections import defaultdict
 
 def analyze_log(file_path):
@@ -32,4 +33,5 @@ def analyze_log(file_path):
         print("No suspicious activity found.\n")
     
 if __name__ == "__main__":
-    analyze_log("log.txt")
+    path = sys.argv[1]
+    analyze_log(path)
